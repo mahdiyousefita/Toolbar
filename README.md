@@ -1,2 +1,3 @@
 # Toolbar
-This is my first toolbar. I use **Coordinator Layout** and **App Bar Layout** in this project...
+This is a simple toolbar.
+I use **Coordinator Layout** and **App Bar Layout** in this.
