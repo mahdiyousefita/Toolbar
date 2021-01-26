@@ -1,3 +1,3 @@
 # Toolbar
 
-Custom Collapsing Toolbar.
+Collapsing Toolbar.
